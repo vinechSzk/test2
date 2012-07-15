@@ -1,10 +1,4 @@
-//
-//  AppDelegate.m
-//  test2
-//
-//  Created by bin huang on 12-7-15.
-//  Copyright (c) 2012年 __Vinech__. All rights reserved.
-//
+//vinech ichartApp
 
 #import "AppDelegate.h"
 

@@ -1,5 +1,5 @@
 //vinech ichartApp
-
+//szkchange
 #import "AppDelegate.h"
 
 @implementation AppDelegate
